@@ -33,3 +33,4 @@ Created as a beginner-friendly web development project to practice Tailwind CSS 
 
 
 This project is free to use for learning and personal development. By Prashanth Saravanan
+can be accessed with the URL  https://prashanth95507.github.io/Tailwind-wesite/
